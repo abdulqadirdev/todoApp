@@ -1,0 +1,32 @@
+.line {
+  text-decoration: line-through;
+}
+/* .color {
+  background-color: blue;
+} */
+/* #todo-list-wrapper {
+  background-color: black;
+} */
+.padding {
+  padding: 0;
+}
+.paddding {
+  padding: 0;
+}
+#todo-list {
+  padding: 0;
+}
+
+.fas {
+  pointer-events: none;
+}
+.li-style {
+  /* border: 1px solid #000000; */
+  border-radius: 7px;
+  padding: 7px;
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+.value-area {
+  width: 50px;
+  display: flex;
+}
